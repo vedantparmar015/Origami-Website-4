@@ -1,0 +1,24 @@
+
+
+.header{
+    color: darkblue;
+    justify-content: flex-end;
+}
+
+.grid{
+    background-color: fuchsia;
+    flex-direction: column;
+}
+
+a:link{
+    color: crimson;
+}
+
+a:visited{
+    color: darkblue;
+}
+
+.origami:hover{
+    transform: scale(1.2);
+}
+
